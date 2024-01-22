@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hiteshlamba
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...css
 - 🌱 I’m currently studying...computer science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...gmail
